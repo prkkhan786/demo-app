@@ -13,7 +13,7 @@ function App() {
       <main className="container">
       <Heading />
       <Switch>
-      <Route exact path="/">
+      <Route exact path="/demo-app">
             <Login />
           </Route>
           <Route exact path="/login">
